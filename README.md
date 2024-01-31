@@ -4,3 +4,5 @@
 # SEARCH GOOGLE
 ![Screenshot 2024-01-31 202522](https://github.com/Amisha0971/GOOGLE-SEARCH-ENGINE-HTML--CSS/assets/136344215/3a3c0acd-289f-4202-a049-9fd5c1d8a35d)
 
+# AFTER SEARCH 
+![Screenshot 2024-01-31 202541](https://github.com/Amisha0971/GOOGLE-SEARCH-ENGINE-HTML--CSS/assets/136344215/e652287e-d9bc-4be0-965e-7d13d002f217)
